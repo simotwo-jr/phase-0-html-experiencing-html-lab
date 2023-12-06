@@ -105,11 +105,11 @@ these bits of letters represent **list items**. To do so we "wrap" each line
 with `<li>` and `</li>`:
 
 ```html
-<li>"Monstera deliciosa"</li>
-<li>"Fiddle Leaf Fig"</li>
-<li>"Pilea"</li>
-<li>"Golden Pothos"</li>
-<li>"Peace Lily"</li>
+  <li>"Monstera deliciosa"</li>
+  <li>"Fiddle Leaf Fig"</li>
+  <li>"Pilea"</li>
+  <li>"Golden Pothos"</li>
+  <li>"Peace Lily"</li>
 ```
 
 Flip back to the **viewing tab** and refresh the page. You should see something
@@ -234,7 +234,7 @@ with an appropriate title inside.
 Here's the full example code:
 
 ```html
-<h1>My Plant List</h1>
+<h1></h1>My Plant List</h1>
 <p>Some of my favorite plants!</p>
 <ul>
   <li>"Monstera deliciosa"</li>
